@@ -8,7 +8,7 @@ core-ktx = "1.13.0"
 oneui-icons = "1.1.0"
 annotation = "1.7.1"
 coroutines = "1.8.0"
-ui-tooling = "1.6.6"
+ui-tooling = "1.8.0"
 windowsizeclas = "1.2.1"
 desugar_android = "2.0.4"
 
