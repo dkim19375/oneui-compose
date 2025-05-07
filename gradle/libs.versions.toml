@@ -1,6 +1,6 @@
 [versions]
 compose-bom = "2025.04.01"
-foundation = "1.8.0"
+foundation = "1.8.1"
 
 agp = "8.9.2"
 kotlin = "2.1.20"
